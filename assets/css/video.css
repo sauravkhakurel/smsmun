@@ -1,0 +1,317 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+html {
+  position: relative;
+  min-height: 100%;
+}
+.mbr-transparent {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.mbr-fullscreen {
+  width: 100%;
+}
+.mbr-background-video,
+.mbr-background-video-preview {
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.mbr-parallax-background,
+.mbr-background {
+  background-attachment: fixed !important;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover !important;
+}
+.mbr-box {
+  display: table;
+  width: 100%;
+}
+.mbr-box--stretched {
+  height: 100%;
+}
+.mbr-box__magnet {
+  display: table-cell;
+  float: none;
+  height: 100%;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+.mbr-box__magnet--sm-padding {
+  padding: 41px 0;
+}
+.mbr-box__magnet--top-left,
+.mbr-box__magnet--top-center,
+.mbr-box__magnet--top-right {
+  vertical-align: top;
+}
+.mbr-box__magnet--bottom-left,
+.mbr-box__magnet--bottom-center,
+.mbr-box__magnet--bottom-right {
+  vertical-align: bottom;
+}
+.mbr-box__magnet--top-left,
+.mbr-box__magnet--center-left,
+.mbr-box__magnet--bottom-left {
+  text-align: left;
+}
+.mbr-box__magnet--top-right,
+.mbr-box__magnet--center-right,
+.mbr-box__magnet--bottom-right {
+  text-align: right;
+}
+.mbr-box__container {
+  height: 50%;
+}
+@media (max-width: 767px) {
+  .mbr-box__container {
+    height: 100%;
+  }
+}
+.mbr-overlay {
+  background: #221;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 2;
+}
+.mbr-section {
+  overflow: hidden;
+  padding: 0 20px;
+  position: relative;
+}
+.mbr-section--full-height {
+  height: 100vh;
+}
+.mbr-section--bg-adapted {
+  background-attachment: scroll;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mbr-section--gray {
+  background-color: #444444;
+}
+.mbr-section--light-gray {
+  background-color: #f0f0f0;
+}
+.mbr-section--dark-gray {
+  background-color: #3c3c3c;
+}
+.mbr-section__container {
+  padding: 0;
+  position: relative;
+  z-index: 3;
+}
+.mbr-section__container--std-padding {
+  padding: 93px 0;
+}
+.mbr-section__container--sm-padding {
+  padding: 41px 0;
+}
+.mbr-section__container--isolated {
+  padding-bottom: 93px;
+  padding-top: 93px;
+}
+.mbr-section__container--first {
+  padding-top: 93px;
+  padding-bottom: 41px;
+}
+.mbr-section__container--middle {
+  padding-bottom: 41px;
+}
+.mbr-section__container--last {
+  padding-bottom: 93px;
+}
+.mbr-section__header {
+  line-height: 1.5em;
+  margin: -10px 0 0;
+  text-align: center;
+}
+.mbr-hero {
+  color: #fff;
+  position: relative;
+}
+.mbr-hero h1{
+  color: #fff !important;
+  font-size: 3.7rem;
+  line-height:normal;
+}
+}
+.mbr-hero__text {
+  font-size: 46px;
+  font-weight: bold;
+  left: -2px;
+  letter-spacing: 2px;
+  line-height: 50px;
+  margin: -18px 0 1px 0;
+  padding-bottom: 41px;
+  position: relative;
+  top: 8px;
+}
+.mbr-hero__subtext {
+  font-size: 21px;
+  line-height: 29px;
+  margin: -32px 0 3px 0;
+  padding: 0 0 41px 0;
+  position: relative;
+  top: 6px;
+}
+.mbr-buttons {
+  margin: -26px 0 13px 0;
+  position: relative;
+  text-align: left;
+  top: 26px;
+}
+.mbr-buttons__btn {
+  margin: 0 10px 13px 0;
+}
+.mbr-buttons--no-offset {
+  margin-top: 0;
+  top: 0;
+}
+.mbr-buttons--center {
+  left: 5px;
+  text-align: center;
+}
+.mbr-buttons--right {
+  text-align: right;
+}
+.mbr-buttons--right .mbr-buttons__btn {
+  margin: 0 0 13px 10px;
+}
+@media (max-width: 530px) {
+  .mbr-buttons {
+    left: 0;
+  }
+  .mbr-buttons__btn,
+  .mbr-buttons--right .mbr-buttons__btn {
+    display: inline-block;
+    margin: 0 0 13px 0;
+    text-align: center;
+    width: 100%;
+  }
+}
+.mbr-arrow {
+  bottom: 71px;
+  left: 0;
+  line-height: 1px;
+  padding: 0 20px;
+  position: absolute;
+  width: 100%;
+  z-index: 3;
+}
+.mbr-arrow__link {
+  display: inline-block;
+  font-size: 26px;
+}
+.mbr-arrow__link,
+.mbr-arrow__link:hover,
+.mbr-arrow__link:focus {
+  color: #fff;
+}
+.mbr-arrow--floating .mbr-arrow__link {
+  -webkit-animation: floating-arrow 1.6s infinite ease-in-out 0s;
+  -o-animation: floating-arrow 1.6s infinite ease-in-out 0s;
+  animation: floating-arrow 1.6s infinite ease-in-out 0s;
+}
+@-webkit-keyframes floating-arrow {
+  from {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  65% {
+    -webkit-transform: translateY(11px);
+    transform: translateY(11px);
+  }
+  to {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@-o-keyframes floating-arrow {
+  from {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  65% {
+    -webkit-transform: translateY(11px);
+    transform: translateY(11px);
+  }
+  to {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+@keyframes floating-arrow {
+  from {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+  65% {
+    -webkit-transform: translateY(11px);
+    transform: translateY(11px);
+  }
+  to {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+.mbr-arrow--dark .mbr-arrow__link,
+.mbr-arrow--dark .mbr-arrow__link:hover,
+.mbr-arrow--dark .mbr-arrow__link:focus {
+  color: #252525;
+}
+@media (max-width: 767px) {
+  .mbr-arrow {
+    bottom: 41px;
+  }
+}
+@media (max-width: 320px) {
+  .mbr-arrow {
+    bottom: 21px;
+    text-align: center;
+  }
+}
+@media all and (device-width: 320px) and (device-height: 568px) and (orientation: portrait) {
+  .mbr-arrow {
+    bottom: 31px;
+  }
+}
+
+@media (max-width: 400px) {
+  .mbr-hero h1{
+    font-size: 2rem !important;
+  }
+  .mbr-hero p{
+    font-size:1rem !important;
+  }
+}
+@media (max-width: 500px) {
+  .mbr-hero h1{
+    font-size: 3rem;
+  }
+}
+
+#header1-0 P {
+	color: #fac51c !important;
+}
+#header1-0 H1 {
+	font-family: 'Raleway', sans-serif !important;
+}
+#header1-0 B {
+	font-family: 'Raleway', sans-serif !important;
+}
+#header1-0 .btn {
+	font-family: 'Raleway', sans-serif !important;
+}
+.btn-default{
+    color: #333;
+}
