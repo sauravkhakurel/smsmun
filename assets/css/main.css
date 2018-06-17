@@ -34,14 +34,14 @@ p {
   font-weight: 400;
 }
 a {
-  color: #FFC107;
+  color: #212D3D;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear;
 }
 a:hover {
-  color: #FFC107;
+  color: #212D3D;
   text-decoration: none;
 }
 a:focus {
@@ -104,7 +104,7 @@ ol {
 }
 .btn-common {
   color: #FFF;
-  background: #FFC107;
+  background: #212D3D;
 }
 .btn-common:hover {
   color: #fff;
@@ -154,7 +154,7 @@ fieldset[disabled] .btn {
   width: 40px;
   font-size: 20px;
   height: 40px;
-  background: #FFC107;
+  background: #212D3D;
   color: #fff;
   text-align: center;
   box-shadow: 0px 6px 13px rgba(0, 0, 0, 0.08);
@@ -204,13 +204,13 @@ fieldset[disabled] .btn {
 }
 .page-header .breadcrumb li {
   line-height: 25px;
-  color: #FFC107;
+  color: #212D3D;
 }
 .page-header .breadcrumb li a {
   color: #fff;
 }
 .page-header .breadcrumb li a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 /* ==========================================================================
    Navigation Main Menu
@@ -221,7 +221,7 @@ fieldset[disabled] .btn {
 #roof {
   color: #fff;
   font-size: 14px;
-  background: #FFC107;
+  background: #212D3D;
 }
 #roof .info-bar-address {
   font-size: 14px;
@@ -244,7 +244,7 @@ fieldset[disabled] .btn {
   font-size: 15px;
 }
 .navbar-default .navbar-toggle .icon-bar {
-  background: #FFC107;
+  background: #212D3D;
 }
 .navbar-default.affix {
   width: 100%;
@@ -349,7 +349,7 @@ fieldset[disabled] .btn {
 .navbar-event .navbar-nav li a:hover,
 .navbar-event .navbar-nav li .active > a,
 .navbar-event .navbar-nav li a:focus {
-  color: #FFC107;
+  color: #212D3D;
 }
 .navbar-event .navbar-nav > .dropdown:hover > ul.dropdown-menu {
   display: block;
@@ -368,7 +368,7 @@ fieldset[disabled] .btn {
   right: 0;
   top: 78px;
   width: 230px;
-  border-color: #FFC107;
+  border-color: #212D3D;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
 }
 .navbar-event .dropdown .dropdown-menu > li > a {
@@ -384,10 +384,10 @@ fieldset[disabled] .btn {
 }
 .navbar-event .dropdown .dropdown-menu > li > a:hover,
 .navbar-event .dropdown .dropdown-menu > li > a .active {
-  color: #FFC107;
+  color: #212D3D;
 }
 .navbar-event .dropdown .dropdown-menu > li.active > a {
-  background: #FFC107 !important;
+  background: #212D3D !important;
   color: #fff;
 }
 @-webkit-keyframes fadeInUpMenu {
@@ -417,7 +417,7 @@ fieldset[disabled] .btn {
 .navbar-event .navbar-nav > .active > a,
 .navbar-event .navbar-nav > .active > a:focus,
 .navbar-event .navbar-nav > .active > a:hover {
-  background: #FFC107 !important;
+  background: #212D3D !important;
   color: #fff;
 }
 .navbar-event .navbar-nav > .active > a,
@@ -457,15 +457,15 @@ fieldset[disabled] .btn {
     display: block;
   }
   .slicknav_nav .active a {
-    background: #FFC107;
+    background: #212D3D;
     color: #fff;
   }
   .slicknav_nav a:hover,
   .slicknav_nav .active {
-    color: #FFC107;
+    color: #212D3D;
   }
   .slicknav_nav .dropdown li a.active {
-    background: #FFC107;
+    background: #212D3D;
     color: #fff;
   }
 }
@@ -653,7 +653,7 @@ fieldset[disabled] .btn {
   line-height: 48px;
 }
 .countdown-timer .text h4 {
-  color: #FFC107;
+  color: #212D3D;
   margin-bottom: 10px;
   line-height: 24px;
 }
@@ -685,7 +685,7 @@ fieldset[disabled] .btn {
   line-height: 45px;
   font-weight: 700;
   display: block;
-  color: #FFC107;
+  color: #212D3D;
   margin-bottom: 10px;
 }
 .time-countdown {
@@ -711,7 +711,7 @@ fieldset[disabled] .btn {
 }
 #event .tab-block .icon i {
   font-size: 40px;
-  color: #FFC107;
+  color: #212D3D;
 }
 #event .tab-block .desc h4 {
   color: #fff;
@@ -751,7 +751,7 @@ fieldset[disabled] .btn {
   padding: 15px;
 }
 .featured-box .icon i {
-  color: #FFC107;
+  color: #212D3D;
   font-size: 48px;
 }
 .featured-box h4 {
@@ -805,7 +805,7 @@ fieldset[disabled] .btn {
 .main-board .day > li.active > a,
 .main-board .day > li.active > a:focus,
 .main-board .day > li.active > a:hover {
-  background-color: #FFC107;
+  background-color: #212D3D;
   color: #fff;
   border-radius: 0;
   border: none;
@@ -826,7 +826,7 @@ fieldset[disabled] .btn {
 }
 .main-board .day > li > a:focus,
 .main-board .day > li > a:hover {
-  background: #FFC107;
+  background: #212D3D;
   color: #fff;
 }
 .column-1 {
@@ -1059,8 +1059,8 @@ fieldset[disabled] .btn {
   transition: all 0.2s linear;
 }
 .gallery-item .icons i:hover {
-  color: #FFC107;
-  border-color: #FFC107;
+  color: #212D3D;
+  border-color: #212D3D;
 }
 .gallery-item .icons .preview {
   position: absolute;
@@ -1391,7 +1391,7 @@ h1 {
   font-weight: 400;
 }
 #blog .blog-info h3 a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #blog .meta {
   font-size: 13px;
@@ -1408,7 +1408,7 @@ h1 {
   color: #999;
 }
 #blog .meta .meta-part a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 /* ==========================================================================
    Pricing Table Style
@@ -1432,7 +1432,7 @@ h1 {
   height: 70px;
   padding: 48px;
   border-radius: 50%;
-  color: #FFC107;
+  color: #212D3D;
 }
 .pricing-table h3 {
   font-size: 24px;
@@ -1547,7 +1547,7 @@ h1 {
   transition: all 0.2s linear;
 }
 #contact .social a .fa-google-plus:hover {
-  color: #FFC107;
+  color: #212D3D;
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
@@ -1591,7 +1591,7 @@ h1 {
   margin-top: 10px;
 }
 #contact .title-header .icon i {
-  color: #FFC107;
+  color: #212D3D;
   font-size: 48px;
 }
 #contact input:focus,
@@ -1625,7 +1625,7 @@ h1 {
 #contact .label-line.active .label {
   top: 0px;
   font-size: 16px;
-  color: #FFC107;
+  color: #212D3D;
 }
 #contact .span {
   position: absolute;
@@ -1662,7 +1662,7 @@ h1 {
   width: 0;
   left: 50%;
   height: 2px;
-  background: #FFC107;
+  background: #212D3D;
   position: absolute;
   -webkit-transition: .5s;
   -moz-transition: .5s;
@@ -1672,7 +1672,7 @@ h1 {
   width: 100%;
   left: 0%;
   height: 2px;
-  background: #FFC107;
+  background: #212D3D;
 }
 #contact .text-left {
   text-align: center;
@@ -1729,7 +1729,7 @@ footer ul li a {
   width: 100%;
   height: 100%;
   z-index: 0;
-  background: #FFC107;
+  background: #212D3D;
   opacity: 0.90;
 }
 #subscribe-section .content {
@@ -1792,7 +1792,7 @@ footer ul li a {
   z-index: 999;
 }
 #subscribe-section .subscribe-box .subscribe-form button:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #subscribe-section .subscribe-box .subscribe-form button:focus {
   border: none;
@@ -1815,7 +1815,7 @@ footer ul li a {
   width: 100%;
   height: 100%;
   z-index: 0;
-  background: #FFC107;
+  background: #212D3D;
   opacity: 0.90;
 }
 #intro .content-text h2 {
@@ -1884,7 +1884,7 @@ footer ul li a {
   color: #2d2d2d;
 }
 .post-title a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #content img {
   width: 100%;
@@ -1915,7 +1915,7 @@ footer ul li a {
   padding-right: 10px;
 }
 .blog-post .post-content .meta .meta-part a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .blog-post .post-content .meta .meta-part i {
   margin-right: 5px;
@@ -1936,7 +1936,7 @@ footer ul li a {
   line-height: 38px;
 }
 .quote-post .feature-inner a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .blog-post .post-format {
   position: absolute;
@@ -1993,10 +1993,10 @@ footer ul li a {
   -o-transition: all 0.2s ease-in-out;
 }
 #pagination .current {
-  color: #FFC107;
+  color: #212D3D;
 }
 #pagination a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #pagination .all-pages,
 #pagination .next-page {
@@ -2008,7 +2008,7 @@ footer ul li a {
   font-weight: 700;
   padding: 12px 15px;
   background: #F9F9F9;
-  border-bottom: 1px solid #FFC107;
+  border-bottom: 1px solid #212D3D;
   margin-bottom: 20px;
 }
 .widget-search {
@@ -2050,7 +2050,7 @@ footer ul li a {
   -o-transition: all 0.2s ease-in-out;
 }
 .widget-search .search-btn:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .right-sidebar {
   padding-left: 20px;
@@ -2081,7 +2081,7 @@ footer ul li a {
   -o-transition: all 0.2s ease-in-out;
 }
 #sidebar .cat-list li a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #sidebar .cat-list li .num-posts {
   color: #aaa;
@@ -2148,7 +2148,7 @@ footer ul li a {
   padding-right: 5px;
 }
 #sidebar .tag a:hover {
-  color: #FFC107;
+  color: #212D3D;
   box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
 }
 .post-slide {
@@ -2168,7 +2168,7 @@ footer ul li a {
   color: #2d2d2d;
 }
 .post-slide .post-content h3 a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .post-slide .post-content .meta {
   font-size: 13px;
@@ -2185,7 +2185,7 @@ footer ul li a {
   padding-right: 10px;
 }
 .post-slide .post-content .meta .meta-part a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .post-slide .post-content .meta .meta-part i {
   margin-right: 5px;
@@ -2198,7 +2198,7 @@ footer ul li a {
 }
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span {
-  background: #FFC107;
+  background: #212D3D;
 }
 .single-gallery .social-link span {
   margin-right: 15px;
@@ -2297,15 +2297,15 @@ blockquote .quote-text {
   color: #2d2d2d;
 }
 #comments .comment-content .comment-by a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 #comments .comment-content .comment-date {
-  color: #FFC107;
+  color: #212D3D;
   font-size: 14px;
 }
 .reply-link {
   padding: 0px 6px;
-  color: #FFC107;
+  color: #212D3D;
   font-size: 16px;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
@@ -2357,7 +2357,7 @@ blockquote .quote-text {
   padding-top:-20px;
 }
 .yellow-section{
-  background-color:#FDBF07
+  background-color:#D5D8DC
 }
 .yellow-section blockquote .quote-text{
   color:black

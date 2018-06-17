@@ -1,72 +1,72 @@
 a{
-  color: #FFC107;
+  color: #212D3D;
 }
 a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .btn-common {
-  background: #FFC107;
+  background: #212D3D;
 }
 .btn-common:hover{
- box-shadow: 0 14px 26px -12px rgba(255, 193, 7, 0.42), 0 4px 23px 0px rgba(255, 193, 7, 0.12), 0 8px 10px -5px rgba(255, 193, 7, 0.02);s
+ box-shadow: 0 14px 26px -12px rgba(33, 45, 61, 0.42), 0 4px 23px 0px rgba(33,45,61, 0.12), 0 8px 10px -5px rgba(33, 45,61, 0.02);s
 }
 /* Back to Top */
 .back-to-top i {
-  background-color: #FFC107;
+  background-color: #212D3D;
 }
 /* Top Roof */
 #roof{
-  background: #FFC107;
+  background: #212D3D;
 }
 /* Navbar */
 .slicknav_btn{
-  border-color: #FFC107;
+  border-color: #212D3D;
   border-radius: 2px;
 }
 .slicknav_menu .slicknav_btn .slicknav_icon-bar{
-  background: #FFC107;
+  background: #212D3D;
 }
 .slicknav_menu .slicknav_btn:hover{
-  background: #FFC107;
+  background: #212D3D;
 }
 .slicknav_nav .active a{
-  background: #FFC107;
+  background: #212D3D;
 }
 .slicknav_nav a:hover, .slicknav_nav .active{
-  color: #FFC107;
+  color: #212D3D;
 }
 .slicknav_nav .dropdown li a.active{
-  background: #FFC107;
+  background: #212D3D;
 }
 .navbar-default .navbar-toggle .icon-bar{
-  background: #FFC107;
+  background: #212D3D;
 }
 .navbar-event .navbar-nav li a:hover,
 .navbar-event .navbar-nav li .active > a,
 .navbar-event .navbar-nav li a:focus {
-  color: #FFC107;
+  color: #212D3D;
 }
 .navbar-event .dropdown .dropdown-menu {
-  border-color: #FFC107;
+  border-color: #212D3D;
 }
 .navbar-event .dropdown .dropdown-menu > li > a:hover,
 .navbar-event .dropdown .dropdown-menu > li > a .active {
-  color: #FFC107;
+  color: #212D3D;
 }
 .navbar-event .dropdown .dropdown-menu > li.active > a {
-  background: #FFC107 !important;
+  background: #212D3D !important;
   color: #fff;
 }
 .navbar-event .navbar-nav > .active > a,
 .navbar-event .navbar-nav > .active > a:focus,
 .navbar-event .navbar-nav > .active > a:hover {
-  background: #FFC107 !important;
+  background: #212D3D !important;
   color: #fff;
 }
 .navbar-event .navbar-nav > .open > a,
 .navbar-event .navbar-nav > .open > a:focus,
 .navbar-event .navbar-nav > .open > a:hover {
-  color: #FFC107;
+  color: #212D3D;
 }
 .navbar-event .navbar-nav > .active > a,
 .navbar-event .navbar-nav > .active > a:hover{
@@ -81,118 +81,118 @@ a:hover{
 }
 /* Event */
 #event .tab-block .icon i{
-  color: #FFC107;
+  color: #212D3D;
 }
 /* Featured icon */
 .featured-box .icon i{
-  color: #FFC107;
+  color: #212D3D;
 }
 /* Schedule */
 .main-board .day > li.active > a,
 .main-board .day > li.active > a:focus,
 .main-board .day > li.active > a:hover{
-  background-color: #FFC107;
+  background-color: #212D3D;
 }
 .main-board .day > li > a:focus,
 .main-board .day > li > a:hover{
-  background: #FFC107;
+  background: #212D3D;
 }
 /* Gellery */
 .gallery-item .icons i:hover{
-  color: #FFC107;
-  border-color: #FFC107;
+  color: #212D3D;
+  border-color: #212D3D;
 }
 /* Video */
 .ready-to-play:before{
-  background: #FFC107;
+  background: #212D3D;
 }
 /* Blog */
 #blog .blog-info h3 a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 /* Pricing Table */
 .pricing-table .table-icon i{
-  color: #FFC107;
+  color: #212D3D;
 }
 .pricing-table .table-icon i{
-    background: rgba(255, 193, 7, 0.07);
+    background: rgba(33, 45, 61, 0.07);
   }
 /* Contact */
 #contact .title-header .icon i{
-  color: #FFC107;
+  color: #212D3D;
 }
 #contact .label-line.active .label{
-   color: #FFC107;
+   color: #212D3D;
 }
 #contact .label-line.active .span:before{
-  background: #FFC107;
+  background: #212D3D;
 }
 #contact .span:before{
-  background: #FFC107;
+  background: #212D3D;
 }
 /* page header */
 .page-header .breadcrumb li{
-  color: #FFC107;
+  color: #212D3D;
 }
 .page-header .breadcrumb li a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 /* Intro */
 #intro::before{
-  background: #FFC107;
+  background: #212D3D;
 }
 #subscribe-section::before{
-  background: #FFC107;
+  background: #212D3D;
 }
 #subscribe-section
 .subscribe-box
 .subscribe-form button:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 /* Speakers others */
 #team .team-img::before{
-  background: rgba(255, 193, 7, 0.7);
+  background: rgba(33, 45, 61, 0.7);
 }
 
 /* Blog page */
 .post-title a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .blog-post .post-content .meta .meta-part a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 #pagination .current,
 #pagination a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .widget-search .search-btn:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .widget-title{
-  border-bottom-color: #FFC107;
+  border-bottom-color: #212D3D;
 }
 #sidebar .posts-list .widget-content a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 #sidebar .cat-list li a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 #sidebar .tag a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .post-slide .post-content h3 a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .post-slide .post-content .meta .meta-part a:hover{
-  color: #FFC107;
+  color: #212D3D;
 }
 .owl-theme .owl-controls .owl-page.active span,
 .owl-theme .owl-controls.clickable .owl-page:hover span{
-  background: #FFC107;
+  background: #212D3D;
 }
 #comments .comment-content .comment-date{
-  color: #FFC107;
+  color: #212D3D;
 }
 .reply-link{
-  color: #FFC107;
+  color: #212D3D;
 }
