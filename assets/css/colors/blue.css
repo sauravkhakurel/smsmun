@@ -1,8 +1,8 @@
 a{
-  color: #212D3D;
+  color: #fff;
 }
 a:hover{
-  color: #212D3D;
+  color: #fff;
 }
 .btn-common {
   background: #212D3D;
@@ -132,10 +132,10 @@ a:hover{
 }
 /* page header */
 .page-header .breadcrumb li{
-  color: #212D3D;
+  color: #fff;
 }
 .page-header .breadcrumb li a:hover{
-  color: #212D3D;
+  color: #fff;
 }
 /* Intro */
 #intro::before{
