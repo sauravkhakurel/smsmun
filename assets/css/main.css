@@ -695,7 +695,7 @@ fieldset[disabled] .btn {
    Event location
    ========================================================================== */
 #event {
-  background: url(../img/background/bg-1.jpg);
+  background: url(../img/background/bg-2.jpg);
   background-size: cover;
   position: relative;
 }
@@ -719,7 +719,7 @@ fieldset[disabled] .btn {
   font-size: 14px;
 }
 #event .tab-block .desc p {
-  color: #ADADAD;
+  color: #fff;
 }
 #event .last-block {
   border-right: none;
@@ -736,7 +736,7 @@ fieldset[disabled] .btn {
   margin-bottom: 22px;
 }
 #event .content-text p {
-  color: #ADADAD;
+  color: #fff;
   font-size: 18px;
   line-height: 28px;
 }
