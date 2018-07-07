@@ -2357,14 +2357,16 @@ blockquote .quote-text {
   padding-top:-20px;
 }
 .yellow-section{
-  background-color: rgba(255,97,0,0.8);
-
+  background-color: rgba(33,45,61,0.8);
+}
+.yellow-section h2{
+    color: white;
 }
 .yellow-section blockquote .quote-text{
-  color:black
+  color: white;
 }
 .yellow-section p,blockquote{
-  color: black;
+  color: white;
 }
 .carousel-caption h2 span{
     text-decoration-color: black;
